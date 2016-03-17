@@ -1,6 +1,6 @@
 //
 //  main.c
-//  GitTest2018
+//  Test201
 //
 //  Created by Serhii Kopach on 18.03.16.
 //  Copyright (c) 2016 Serhii Kopach. All rights reserved.
